@@ -1,0 +1,541 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+body{
+    font-family: 'Raleway', sans-serif;
+}
+.bek{
+    background: #EBFFE4;
+}
+header{
+    background: url(./img/Group\ 14.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    margin-top: 50px;
+}
+.list{
+    display: flex;
+    margin-top: 55px;
+}
+.siu{
+    text-decoration: none;
+    
+    margin-left: 30px;
+    font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color: #051101;
+
+}
+.siu:hover{
+color: #051101;
+opacity: 1;
+}
+.btn1{
+    margin-top: 40px;
+    background: #5CBE3A;
+border-radius: 4px;
+border: none;
+    padding: 15px 30px;
+    font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+.df{
+    margin-top: 110px;
+    display: flex;
+}
+.ka{
+    font-weight: 600;
+font-size: 22px;
+line-height: 140%;
+/* or 31px */
+
+text-transform: uppercase;
+
+color: #5CBE3A;
+padding-right: 15px;
+}
+.yo{
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 61px;
+line-height: 120%;
+/* or 73px */
+
+
+color: #051101;
+margin-top: 15px;
+}
+.lor{
+    font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+margin-top: 10px;
+
+color: #051101;
+
+opacity: 0.7;
+}
+.lor-ich{
+    font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+margin-top: 10px;
+
+color: #5CBE3A;
+
+opacity: 0.7;
+}
+.btn2{
+    margin-top: 40px;
+    border: none;
+background: #5CBE3A;
+border-radius: 4px;
+    padding: 15px 30px;
+    font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
+.btn3{
+    margin-left: 30px;
+    border: none;
+background: #FFFFFF;
+border-radius: 4px;
+    padding: 15px 30px;
+    font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #5CBE3A;
+
+}
+.narx{
+    margin-top: 15px;
+    font-weight: 700;
+font-size: 31px;
+line-height: 130%;
+/* or 40px */
+
+
+color: #5CBE3A;
+}
+.web{
+
+    margin-left: 10px;
+    font-weight: 700;
+font-size: 22px;
+line-height: 130%;
+/* or 40px */
+
+
+color: #87D16D;
+}
+.df3{
+    display: flex;
+    padding-bottom: 50px;
+}
+.kat{
+    margin-top: 80px;
+    width: 30%;
+    margin-right: 45px;
+}
+.kich{
+    margin-top: 7px;
+    font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+text-align: center;
+
+color: #051101;
+
+opacity: 0.7;
+}
+.wiz{
+    width: 100%;
+    position: relative;
+}
+.star{
+    margin-top: 170px;
+}
+.kros{
+    margin-top: 240px;
+    margin-left: 40px;
+}
+.kroses{
+    margin-left: 250px; 
+}
+.pb {
+    left: -2%;
+    top: 10%;
+    position: absolute;
+}
+.h11{
+    margin-top: 115px;
+    font-weight: 700;
+font-size: 44px;
+line-height: 130%;
+/* or 57px */
+
+text-align: center;
+
+color: #000000;
+}
+.lor4{
+    font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+text-align: center;
+
+color: #051101;
+
+opacity: 0.7;
+}
+.card1{
+    margin-top: 90px;
+    width: 100%;
+    text-align: center;
+}
+.equal{
+    font-weight: 500;
+font-size: 22px;
+line-height: 140%;
+/* identical to box height, or 31px */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #000000;
+margin-top: 60px;
+margin-bottom: 10px;
+}
+.money{
+    margin-top: 10px;
+    font-weight: 700;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+
+text-align: center;
+
+color: #000000;
+
+}
+.nike2{
+    width: 292.67px;
+height: 161.19px;
+}
+.btn5{
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 1px solid #5CBE3A;
+    background-color: #FFFFFF;
+    font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+padding: 15px 30px;
+
+color: #5CBE3A;
+
+}
+.h12{
+    padding-left: 100px;
+    padding-top: 140px;
+    font-weight: 700;
+font-size: 44px;
+line-height: 130%;
+/* or 57px */
+
+
+color: #051101;
+
+}
+.now{
+    padding-left: 100px;
+    margin-top: 24px;
+    font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+
+color: #051101;
+
+opacity: 0.7;
+}
+.bek2{
+    padding-bottom: 170px;
+    margin-top: 140px;
+    width: 100%;
+    background: #F6FFF3;
+border-radius: 10px;
+}
+.vid{
+    margin-top: 200px;
+    margin-left: -84px;
+}
+.sec3{
+    margin-top: 150px;
+}
+.sport{
+    width: 100%;
+}
+.h13{
+    font-weight: 700;
+font-size: 44px;
+line-height: 130%;
+/* or 57px */
+
+
+color: #051101;
+
+}
+.lor_min{
+    margin-left: 15px;
+    font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+
+color: #051101;
+
+opacity: 0.7;
+}
+.df6{
+    margin-top: 25px;
+    display: flex;
+}
+.su{
+    
+    margin-top: 10px;
+}
+.bek9{
+    background: url(./img/Vector\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 49px;
+}
+.ml{
+    padding-top: 50px;
+    margin-left: 100px;
+}
+.sec4{
+    margin-top: 200px;
+}
+.kattaa{
+    text-align: center;
+}
+.strelka{
+    margin-top: 50px;
+}
+.btnkor{
+    margin-top: 55px;
+    border: none;
+    padding: 15px 30px;
+    font-weight: 500;
+font-size: 22px;
+line-height: 140%;
+/* identical to box height, or 31px */
+
+
+color: #5CBE3A;
+}
+.dfnuq{
+    justify-content: center;
+    display: flex;
+    margin-top: 50px;
+    gap: 27px;
+}
+.card2{
+    padding-top: 30px;
+    padding-left: 80px;
+    width: 100%;
+}
+.dfke{
+    display: flex;
+}
+.h31{
+    padding-bottom: 30px;
+    font-weight: 700;
+font-size: 31px;
+line-height: 130%;
+/* or 40px */
+
+
+color: #051101;
+
+}
+.dfkich{
+    margin-left: 30px;
+}
+.name{
+    font-weight: 600;
+font-size: 22px;
+line-height: 140%;
+/* identical to box height, or 31px */
+
+
+color: #051101;
+}
+.lor-screen{
+    font-weight: 500;
+font-size: 19px;
+line-height: 150%;
+/* or 24px */
+
+
+color: #051101;
+margin-bottom: 25px;
+opacity: 0.7;
+}
+.df0{
+    display: flex;
+}
+.des{
+    margin-left: 30px;
+    font-weight: 600;
+font-size: 22px;
+line-height: 140%;
+/* identical to box height, or 31px */
+
+
+color: #051101;
+}
+.els{
+    margin-top: -80px;
+}
+.cardka{
+    background: #EBFFE4;
+    text-align: center;
+    padding-bottom: 80px;
+}
+.h14{
+    margin-top: 80px;
+    font-weight: 700;
+font-size: 44px;
+line-height: 130%;
+/* or 57px */
+
+color: #051101;
+
+}
+.lo{
+    margin-top: 25px;
+    font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+text-align: center;
+
+color: #051101;
+
+opacity: 0.7;
+}
+.tbn0x{
+    margin-top: 35px;
+    font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+padding: 15px 30px;
+background: #5CBE3A;
+border-radius: 4px;
+border: none;
+}
+footer{
+    margin-top: 135px;
+}
+.logo2{
+    margin-top: 44px;
+    margin-bottom: 57px;
+}
+.list_item{
+    font-weight: 500;
+font-size: 22px;
+line-height: 140%;
+/* identical to box height, or 31px */
+
+
+color: #051101;
+margin-left: 70px;
+}
+.list2{
+    display: flex;
+    margin-top: 44px;
+}
+.df0x{
+    display: flex;
+    margin-top: 30px;
+}
+.dum{
+    margin-left: 43px;
+    margin-top: 4px;
+    border-radius: 50%;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 47.84px;
+height: 47.84px;
+background: #5CBE3A;
+}
+.dum2{
+    margin-left: 25px;
+    margin-top: 4px;
+    border-radius: 50%;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 47.84px;
+height: 47.84px;
+background: #5CBE3A;
+}
+.fol{
+    margin-top: 14px;
+    font-weight: 700;
+font-size: 22px;
+line-height: 140%;
+
+
+color: #051101;
+
+}
+.dil{
+    display: flex;
+}
+.chiziq{
+    width: 100%;
+}
