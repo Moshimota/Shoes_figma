@@ -539,3 +539,258 @@ color: #051101;
 .chiziq{
     width: 100%;
 }
+@media(max-width: 575px){
+    .btn1 {
+        margin-top: 10px;
+        background: #5CBE3A;
+        border-radius: 4px;
+        border: none;
+        padding: 10px 20px;
+        font-weight: 500;
+        font-size: 11px;
+        line-height: 19px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+    .logo {
+        margin-top: 10px;
+    }
+    .ka {
+        font-weight: 600;
+        font-size: 22px;
+        line-height: 140%;
+        text-transform: uppercase;
+        color: #5CBE3A;
+        padding-right: 15px;
+        text-align: center;
+        margin-bottom: -5px;
+    }
+    .dfre{
+        margin-top: 80px;
+        text-align: center;
+    }
+    .nike {
+        margin-left: -12px;
+    }
+    .yo {
+        text-align: center;
+        font-weight: 700;
+        font-size: 45px;
+        line-height: 120%;
+        color: #051101;
+        margin-top: 15px;
+    }
+    .lor {
+        text-align: center;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 150%;
+        margin-top: 10px;
+        color: #051101;
+        opacity: 0.7;
+    }
+    .narx {
+        text-align: center;
+        margin-top: 15px;
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 130%;
+        color: #5CBE3A;
+    }
+    .web {
+        margin-left: 10px;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 130%;
+        color: #87D16D;
+    }
+    .df2{
+        text-align: center;
+    }
+    .df3 {
+        display: flex;
+        padding-bottom: 50px;
+        text-align: center;
+        justify-content: space-between;
+    }
+    .letit{
+        width: 100%;
+    }
+    .star {
+        margin-top: 30px;
+    }
+    .pb {
+        left: -2%;
+        top: 23%;
+        position: absolute;
+        width: 110%;
+    }
+    .kros {
+        margin-top: 125px;
+        margin-left: 10px;
+        width: 20%;
+        padding-bottom: 50px;
+    }
+    .kroses {
+        margin-left: 150px;
+    }
+    .h11 {
+        margin-top: 50px;
+        font-weight: 700;
+        font-size: 35px;
+        line-height: 130%;
+        text-align: center;
+        color: #000000;
+    }
+    .lor4 {
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 150%;
+        text-align: center;
+        color: #051101;
+        opacity: 0.7;
+    }
+    .card1 {
+        margin-top: 50px;
+        width: 100%;
+        text-align: center;
+    }
+    .vid {
+
+        margin-top: -135px;
+        margin-left: 0;
+        width: 100%;
+    }
+    .bek2 {
+        padding-bottom: 125px;
+        margin-top: 50px;
+        width: 100%;
+        background: #F6FFF3;
+        border-radius: 10px;
+    }
+    .h12 {
+        padding-left: 0;
+        padding-top: 30px;
+        text-align: center;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 130%;
+        color: #051101;
+    }
+    .now {
+        padding-left: 0;
+        text-align: center;
+        margin-top: 24px;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 150%;
+        color: #051101;
+        opacity: 0.7;
+    }
+    .sec3 {
+        margin-top: 60px;
+    }
+    .h13 {
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 130%;
+        color: #051101;
+        text-align: center;
+    }
+    .ml {
+        padding-top: 30px;
+        margin-left: 0;
+    }
+    .lor_min {
+        margin-left: 15px;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 150%;
+        color: #051101;
+        opacity: 0.7;
+    }
+    .dfkich {
+        margin-left: 10px;
+    }
+    .card2 {
+        padding-top: 30px;
+        padding-left: 0;
+        width: 100%;
+        text-align: center;
+    }
+    .sec4 {
+        margin-top: 50px;
+    }
+    .kattaa {
+        margin-top: 120px;
+        text-align: center;
+    }
+    .els {
+        margin-top: 30px;
+    }
+    .cardka {
+        background: #EBFFE4;
+        text-align: center;
+        padding-bottom: 50px;
+        padding-top: 50px;
+        margin-top: 50px;
+    }
+    .h14 {
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 130%;
+        color: #051101;
+    }
+    .lo {
+        margin-top: 25px;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 150%;
+        text-align: center;
+        color: #051101;
+        opacity: 0.7;
+    }
+    .logo2 {
+        margin-top: 30px;
+        margin-bottom: 30px;
+        width: 100%;
+    }
+    .list3 {
+        margin-top: 30px;
+    }
+    .list_item {
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 140%;
+        color: #051101;
+        margin-left: 15px;
+        margin-top: 7px;
+    }
+    .df1x {
+        margin-top: 25px;
+    }
+    .dum {
+        margin-left: -20px;
+        margin-top: 4px;
+        border-radius: 50%;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        width: 47.84px;
+        height: 47.84px;
+        background: #5CBE3A;
+    }
+    .dum2 {
+        margin-left: 5px;
+        margin-top: 4px;
+        border-radius: 50%;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        width: 47.84px;
+        height: 47.84px;
+        background: #5CBE3A;
+    }
+}
